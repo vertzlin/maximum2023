@@ -6,3 +6,4 @@ def func(c):
         return False
 
 print(func("шалаш"))
+
